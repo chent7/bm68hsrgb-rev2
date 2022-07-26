@@ -7,3 +7,4 @@ My mod for BM68HSRGB-REV2
 * RGB lighting is personalized and other effects are stripped
 * 1ms and eager debounce for rhythm games
 * VIA enabled and no messing with unknown keycodes
+* The case is pink everglide sk68 case
